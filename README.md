@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--
 https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif
 -->
-<img align="right" alt="Coder Girl GIF" height=300 width=420 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+<img align="right" alt="Coder Girl GIF" height=300 width=420 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhruvi&label=Profile%20views&color=0e75b6&style=flat" alt="mdhruvi" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdhruvi"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mdhruvi"> </p>
 
