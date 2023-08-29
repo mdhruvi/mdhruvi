@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **mdhruvi/mdhruvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👩🏼‍🎓 Master's in Applied Computer Science at <a href="https://www.concordia.ca/" target="blank">Concordia University</a>
 
-- 👩🏼‍🏫 STEM Tutor at <a href="https://paper.co/" target="blank"></a>
+- 👩🏼‍🏫 STEM Tutor at <a href="https://paper.co/" target="blank">Paper</a>
 
 - 📫 How to reach me **dhruvimodi2198@gmail.com**
 
