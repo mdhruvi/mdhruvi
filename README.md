@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋</h1>
-<h1 align="center">Dhruvi Modi</h1>
+<h1 align="center">I'm Dhruvi Modi</h1>
 
 <!--
 <img align="right" alt="Coder GIF" height=300 width=420 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
