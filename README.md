@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Dhruvi Modi</h1>
+<h1 align="center">I'm Dhruvi Modi 🙋🏼‍♀️</h1>
 
 <!--
-<img align="right" alt="Coder GIF" height=300 width=420 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif
 -->
+<img align="right" alt="Coder Girl GIF" height=300 width=420 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhruvi&label=Profile%20views&color=0e75b6&style=flat" alt="mdhruvi" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdhruvi"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mdhruvi"> </p>
 
 - 🔭 Seeking for Full Time Opportunities in Software Development 👩🏼‍💻
@@ -48,9 +50,6 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<!--
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
--->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -59,6 +58,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![.NET](https://img.shields.io/badge/-%2520%26%23183net?style=flat-square&logo=dotnet)
+<!--
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+-->
 <!--
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 -->
